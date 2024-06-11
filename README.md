@@ -16,13 +16,13 @@
 <br>
 
 <div>
-  <a href="https://github.com/BJesuss/Site-Korra" title="A Lenda de Korra"><img align="left" width="450" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=BJesuss&repo=Site-Korra&theme=gruvbox&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/BJesuss/Home-Site-Avatar" title="A Lenda de Aang"><img align="right" width="450" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=BJesuss&repo=Home-Site-Avatar&theme=gruvbox&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/BJesuss/Site-Korra" title="A Lenda de Korra"><img align="left" width="45%" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=BJesuss&repo=Site-Korra&theme=gruvbox&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/BJesuss/Home-Site-Avatar" title="A Lenda de Aang"><img align="right" width="45%" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=BJesuss&repo=Home-Site-Avatar&theme=gruvbox&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/><br>
 <div>  
-  <a href="https://github.com/BJesuss/ExClasse" title="Ex. Clase em Java"><img align="right" width="450" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=BJesuss&repo=ExClasse&theme=gruvbox&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/BJesuss/ExSequencial" title="Ex. Sequencial em Java"><img align="left" width="450" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=BJesuss&repo=ExSequencial&theme=gruvbox&border_color=61dafb&border_radius=10"></a> 
+  <a href="https://github.com/BJesuss/ExClasse" title="Ex. Clase em Java"><img align="right" width="45%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=BJesuss&repo=ExClasse&theme=gruvbox&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/BJesuss/ExSequencial" title="Ex. Sequencial em Java"><img align="left" width="45%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=BJesuss&repo=ExSequencial&theme=gruvbox&border_color=61dafb&border_radius=10"></a> 
 </div>
 
 <br/><br/><br/><br/><br/><br/>
